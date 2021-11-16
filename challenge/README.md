@@ -1,6 +1,9 @@
 # challenge
 
-A new Flutter project.
+First of all, i'm thankful for be considered able to join this challenge.
+I really wanted to deal with it using Swift/ Objective-C, but some issues made me got in troubles.
+I could not learn at time, so due to this, the project were built using flutter framework, that uses DART language.
+The framework builds a native app for both Android and IOS architecture.
 
 ## Getting Started
 
